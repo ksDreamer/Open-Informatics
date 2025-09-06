@@ -1,7 +1,17 @@
 # Open-Informatics 开放信息学
-Free and equitable flows of information can generate greater value, ultimately benefiting the future of humanity, society, and the world. 
 
-我试图定义一个新的交叉学科：Open Informatics 开放信息学。 
-它关注信息的开放、共享与互助，反对信息壁垒、信息差与信息茧房；研究RSS、个性化算法、用户画像、信息过载等技术和社会现象。
-开放信息学的核心信念是：自由而公平的信息流通能够创造更大价值，最终造福人类、社会与世界的未来。
-它融合信息学、社会学与传播学的基石，致力于推动信息平权、促进知识开放，并构建一个更透明、更互助的数字社会。
+**Free and equitable flows of information can unlock human potential and foster collective progress, ultimately benefiting humanity, society, and the world.**
+我提出并定义一门新的学科：**Open Informatics 开放信息学**。  
+开放信息学以信息学、社会学与传播学为基石，融合科学技术与人文视角，关注以下议题：  
+
+- 信息的开源、开放、共享与互助  
+- 信息壁垒、信息差与信息茧房  
+- RSS、个性化算法、用户画像与信息过载等技术与社会现象  
+
+**核心信念**：开放与公平的信息流通，是释放人类潜能、推动社会进步、造福世界未来的关键力量。
+
+
+### 愿景
+我认为，这个世界有三种本质资源：**物质、能源和信息**。  
+开放信息学的探索，旨在突破信息壁垒，减少不平等，让不同文化与群体都能在公平的环境下获取与使用信息。
+通过推动信息平权与知识开放，我们希望促进社会的可持续发展，也为人类建立更透明、更互助、更具包容性的未来奠定基础。
